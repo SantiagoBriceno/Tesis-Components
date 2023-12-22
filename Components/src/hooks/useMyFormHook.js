@@ -14,7 +14,6 @@ export const useMyFormHook = (formDataStructure) => {
     console.log(formData)
   }
 
-
   const actions = {
     handleChange,
     handleSubmit
